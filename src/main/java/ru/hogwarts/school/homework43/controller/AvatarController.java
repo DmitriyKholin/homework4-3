@@ -22,6 +22,7 @@ import java.util.List;
 @RequestMapping("/avatar")
 @Validated
 public class AvatarController {
+
     private final AvatarService avatarService;
 
     public AvatarController(AvatarService avatarService) {

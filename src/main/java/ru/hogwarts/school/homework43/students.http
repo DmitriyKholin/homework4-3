@@ -4,6 +4,7 @@ GET http://localhost:8080/student/find?id=1
 POST http://localhost:8080/student
 Content-Type: application/json
 
+
 {
   "name": "Bellatrix Black",
   "age": 42

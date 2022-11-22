@@ -6,6 +6,7 @@ import org.hibernate.annotations.NotFoundAction;
 import javax.persistence.*;
 import java.util.Objects;
 
+
 @Entity
 public class Student {
     @Id
