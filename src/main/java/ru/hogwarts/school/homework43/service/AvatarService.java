@@ -19,6 +19,7 @@ import java.util.stream.Collectors;
 
 import static java.nio.file.StandardOpenOption.CREATE_NEW;
 
+
 @Service
 @Transactional
 public class AvatarService {

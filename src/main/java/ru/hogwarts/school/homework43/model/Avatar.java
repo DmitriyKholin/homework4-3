@@ -2,6 +2,7 @@ package ru.hogwarts.school.homework43.model;
 
 import org.hibernate.annotations.Type;
 
+
 import javax.persistence.*;
 import java.util.Arrays;
 import java.util.Objects;

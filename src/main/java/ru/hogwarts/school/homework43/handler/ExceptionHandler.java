@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import ru.hogwarts.school.homework43.exception.FacultyNotFoundException;
 import ru.hogwarts.school.homework43.exception.StudentNotFoundException;
 
+
 @RestControllerAdvice
 public class ExceptionHandler {
 

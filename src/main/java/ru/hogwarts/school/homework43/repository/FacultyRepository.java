@@ -6,6 +6,7 @@ import ru.hogwarts.school.homework43.model.Faculty;
 
 import java.util.List;
 
+
 @Repository
 public interface FacultyRepository extends JpaRepository<Faculty, Long> {
 

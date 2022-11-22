@@ -13,6 +13,7 @@ import java.util.Set;
 @RestController
 @RequestMapping("/faculty")
 public class FacultyController {
+
     private final FacultyService facultyService;
 
     public FacultyController(FacultyService facultyService) {
